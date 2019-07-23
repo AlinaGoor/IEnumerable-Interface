@@ -1,0 +1,11 @@
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\bin\Debug\netcoreapp2.2\IEnumerablePractice.deps.json
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\bin\Debug\netcoreapp2.2\IEnumerablePractice.runtimeconfig.json
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\bin\Debug\netcoreapp2.2\IEnumerablePractice.runtimeconfig.dev.json
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\bin\Debug\netcoreapp2.2\IEnumerablePractice.dll
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\bin\Debug\netcoreapp2.2\IEnumerablePractice.pdb
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\obj\Debug\netcoreapp2.2\IEnumerablePractice.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\obj\Debug\netcoreapp2.2\IEnumerablePractice.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\obj\Debug\netcoreapp2.2\IEnumerablePractice.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\obj\Debug\netcoreapp2.2\IEnumerablePractice.AssemblyInfo.cs
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\obj\Debug\netcoreapp2.2\IEnumerablePractice.dll
+C:\Users\Alina\Desktop\forC\etc\IEnumerablePractice\obj\Debug\netcoreapp2.2\IEnumerablePractice.pdb
